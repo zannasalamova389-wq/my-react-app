@@ -49,3 +49,15 @@ cursor: pointer;
 .card button:hover {
 background-color: #b8864a;
 }
+.header {
+text-align: center;
+padding: 20px;
+background-color: #4a2c1a;
+color: #fff;
+margin-bottom: 20px;
+}
+.cart-info {
+color: #d4a373;
+font-weight: bold;
+font-size: 18px;
+}
