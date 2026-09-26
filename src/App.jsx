@@ -15,7 +15,7 @@ return (
 <p className="cart-info">🛒 Товаров в корзине: {cartCount}</p>
 </header>
 <div className="cards">
-<Card totle="Эспрессо" description="Крепкий и бодрящий" price={150} image={espresso} onAdd={addToCart} />
+<Card title="Эспрессо" description="Крепкий и бодрящий" price={150} image={espresso} onAdd={addToCart} />
 <Card title="Капучино" description="С нежной молочной пенкой" price={200} image={cappuccino} onAdd={addToCart} />
 <Card title="Латте" description="Мягкий и сливочный" price={200} image={latte} onAdd={addToCart} />
 </div>
